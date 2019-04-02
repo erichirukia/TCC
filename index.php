@@ -35,8 +35,6 @@
                     <form  action="controller/logar.php" method="POST" class="form-horizontal" enctype="multipart/form-data">
                         <!-- Form Name -->
                         <h3 id = "login_titulo">Login</h3>
-                        <br>
-
                         <!-- Text input-->
                         <div class="form-group">
                             <label class="col-md-12" for="textinput" id="label">E-mail <span class="fa fa-user"></span></label>
