@@ -1,0 +1,92 @@
+header{
+    background-color: #001C8B;
+}
+#login{
+    padding: 10px 0px 0px 0px;
+    float: right;
+}
+#resumo{
+    padding: 20px 0px 0px 0px;
+}
+#login_titulo{
+    font-family: "Cooper preto";
+    font-size: 48px;
+    color: #001FA7;
+}
+#label{
+    font-family: "Sitka Banner";
+    font-size: 22px;
+    color: #001FA7;
+}
+#titulo{
+    font-family: "Cooper preto";
+    font-size: 48px;
+    color: #001FA7;
+}
+#texto{
+    font-family: "Cooper preto";
+    font-size: 20px;
+    color: #808080;
+}
+body{
+    background-color:#DBD9FF;
+}
+footer{
+    background-color:#DBD9FF; 
+    color: #808080;
+    text-align: center;
+    font-size: 12px;
+    position: frelative;
+    width: 100%;
+    bottom: 0;
+}
+p{
+    margin-bottom: 0;
+}
+.footerImg{
+    padding: 5px 15px 5px 15px;
+}
+.row{
+    margin-left: 0;
+    margin-right:0;
+}
+.row1{
+    padding: 15px 15px 15px 15px;
+}
+nav{
+    display: block;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    float: left;
+}
+legend{
+    font-family: "Cooper preto";
+    font-size: 36px;
+    color: #001FA7;
+    text-align: left;
+}
+button{
+    background-color: #001FA7;
+    border-color: #001FA7;
+    color: #fff;
+    cursor:pointer;
+}
+a{
+    cursor:pointer;
+}
+#link-header{
+    display: nome;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    text-align: right;
+}
+#btn-azul{
+    background-color: #fff;
+    border-color: #fff;
+    color: #001C8B;
+    cursor:pointer;
+    border-color: #001C8B;
+}
